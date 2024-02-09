@@ -1,0 +1,2 @@
+- hover nos bottões
+- centralizar os dados no meio da tela
